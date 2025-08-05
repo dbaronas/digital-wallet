@@ -2,6 +2,7 @@
 
 This is a full-stack project simulating a digital wallet and betting platform, including user registration, login, betting, and wallet tracking functionalities.
 
+Due to limited development time, some functionalities were not implemented or remain partially completed.
 ---
 
 ## ✅ Feature Implementation Overview
