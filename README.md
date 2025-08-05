@@ -20,7 +20,8 @@ Due to limited development time, some functionalities were not implemented or re
 - ✅ List Bets (`GET /my-bets`)
   - ✅ Pagination
   - ⚠️ Filtering by status and ID not implemented
-- ✅ Cancel Bet (`DELETE /my-bet/{id}`) — cannot cancel already-canceled bets
+- ✅ View a single Bet (`/my-bet/:id`) - view it by clicking underlined bet ID within "My Bets" menu section
+- ✅ Cancel Bet (`DELETE /my-bet/{id}`) — cancel the bet by clicking the cancel icon (cannot cancel already-canceled bets)
 
 #### 3. Wallet System
 
