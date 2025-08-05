@@ -31,7 +31,7 @@ This is a full-stack project simulating a digital wallet and betting platform, i
 
 #### 4. Technical Requirements
 
-- ✅ Responsive Design (mobile & desktop)
+- ⚠️ Responsive Design for smaller devices not implemented
 - ✅ Route Protection (private vs. public routes)
 - ✅ Euro currency formatting (e.g., €10.50)
 - ✅ Form validations (required fields, type checks, API error handling)
