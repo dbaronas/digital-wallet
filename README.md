@@ -3,6 +3,8 @@
 This is a full-stack project simulating a digital wallet and betting platform, including user registration, login, betting, and wallet tracking functionalities.
 
 Due to limited development time, some functionalities were not implemented or remain partially completed.
+
+CORS options were added in the backend to allow the frontend origin - http://localhost:5173
 ---
 
 ## ✅ Feature Implementation Overview
