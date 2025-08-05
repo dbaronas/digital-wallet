@@ -15,7 +15,7 @@ function CancelButton({onCancel}: Props) {
                 <TiCancel size={28} className="text-red-400"/>
             </button>
             {showConfirm && (
-                <div className="fixed bg-black/80 inset-0 flex items-center h-full justify-center">
+                <div className="z-99 fixed bg-black/80 inset-0 flex items-center h-full justify-center">
                     <div className="bg-primary p-4 rounded-lg">
                         <div className="text-xl font-semibold italic">Are you sure you want to cancel?</div>
                         <div className="flex gap-6 mt-4 justify-center">
