@@ -80,9 +80,8 @@ The app will be available at: http://localhost:5173
 ### Setup Instructions
 
 ```bash
-cd backend
+cd backend/mock-api
 npm install
-cd mock-api
 npm start
 ```
 
